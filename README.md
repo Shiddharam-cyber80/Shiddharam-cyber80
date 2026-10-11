@@ -64,7 +64,14 @@ My goal is to develop strong skills in penetration testing, red teaming, and und
 ---
 [![](https://komarev.com/ghpvc/?username=Shiddharam-cyber80&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ---
 
 *Learning consistently. Building responsibly. One lab at a time.*
